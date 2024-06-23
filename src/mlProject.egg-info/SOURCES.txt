@@ -13,4 +13,4 @@ src/mlProject/entity/__init__.py
 src/mlProject/entity/config_entity/__init__.py
 src/mlProject/pipeline/__init__.py
 src/mlProject/utils/__init__.py
-src/mlProject/utils/common/__init__.py
+src/mlProject/utils/common.py
